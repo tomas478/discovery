@@ -1,2 +1,1 @@
-ddcolor.7z.* filter=lfs diff=lfs merge=lfs -text
-sam3.7z.* filter=lfs diff=lfs merge=lfs -text
+ddcolor-onnx-test.7z filter=lfs diff=lfs merge=lfs -text
